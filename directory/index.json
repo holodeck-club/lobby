@@ -1,0 +1,388 @@
+{
+  "objects": [
+    {
+      "author": "Diego Marcos",
+      "description": "Space invaders game",
+      "title": "a-invaders",
+      "source_url": "dmarcos/a-invaders",
+      "start_url": "http://swimminglessonsformodernlife.com/a-invaders/"
+    },
+    {
+      "author": "Kevin Ngo",
+      "description": "Star Wars Audio Visualization",
+      "title": "a-wakens",
+      "source_url": "ngokevin/a-wakens",
+      "start_url": "https://ngokevin.github.com/a-wakens/"
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "description": "VR Website Navigation",
+      "start_url": "http://drawvr.com/",
+      "title": "DrawVR"
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "start_url": "http://drawvr.com/tron/",
+      "title": "Tron-inspired Experience"
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "start_url": "http://drawvr.com/minecraft/",
+      "title": "Minecraft-inspired Experience"
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "start_url": "http://drawvr.com/theater/",
+      "title": "Movie Theater"
+    },
+    {
+      "author": {
+        "name": "Mark Hansen",
+        "url": "https://github.com/youmustfight/"
+      },
+      "description": "360° image with transitions",
+      "source_url": "youmustfight/vr_app_landing",
+      "start_url": "http://mhansen-dev.eevo.nyc/",
+      "title": "EEVO"
+    },
+    {
+      "author": {
+        "name": "David Burns",
+        "url": "https://github.com/davexoxide/"
+      },
+      "description": "Holiday scene",
+      "source_url": "davexoxide/sweet-lights",
+      "start_url": "https://htmlpreview.github.io/?https://github.com/davexoxide/sweet-lights/blob/master/index.html",
+      "title": "Hershey Sweet Lights"
+    },
+    {
+      "author": {
+        "name": "Casper Fabricius",
+        "url": "https://github.com/RSpace/"
+      },
+      "description": "Switching interaction between 2D and 3D",
+      "source_url": "RSpace/aframe-meetup-example",
+      "post_url": "https://medium.com/immersion-for-the-win/hands-on-with-virtual-reality-using-a-frame-react-and-redux-bc66240834f7",
+      "start_url": "http://immersionftw.com/meetup-vr/",
+      "title": "Meetup VR"
+    },
+    {
+      "author": {
+        "name": "gtk2k",
+        "url": "https://github.com/gtk2k/"
+      },
+      "description": "Live video preview with the Ricoh Theta S",
+      "source_url": "https://github.com/gtk2k/gtk2k.github.io/tree/master/aframe_theta_s_live_preview/",
+      "start_url": "https://gtk2k.github.io/aframe_theta_s_live_preview/livepreview.html",
+      "title": "Ricoh Theta S Live Preview"
+    },
+    {
+      "author": {
+        "name": "Kevin Ngo",
+        "url": "https://github.com/ngokevin/"
+      },
+      "description": "360° photo and video viewer",
+      "source_url": "ngokevin/threeschwifty",
+      "start_url": "https://ngokevin.github.com/threeschwifty/",
+      "title": "threeschwifty"
+    },
+    {
+      "author": {
+        "name": "Michael Verdi",
+        "url": "http://x627.com/"
+      },
+      "description": "GIFs in VR",
+      "start_url": "http://x627.com/vr-gif/",
+      "post_url": "http://x627.com/a-frame-is-awesome/",
+      "title": "VR GIF"
+    },
+    {
+      "author": {
+        "name": "Chris Withers",
+        "url": "https://www.behance.net/chriswithers"
+      },
+      "description": "Tour of the [Stamps School of Art & Design](http://stamps.umich.edu/), built using 360° photos with a navigation carousel",
+      "title": "Virtual Art School Tour",
+      "start_url": "http://stampswebdesign.com/withersc/hud/"
+    },
+    {
+      "author": {
+        "name": "IdeaSpaceVR",
+        "url": "https://twitter.com/ideaspacevr/"
+      },
+      "description": "360° photo viewer with navigation",
+      "title": "360° Photosphere Viewer",
+      "source_url": "IdeaSpaceVR/aframe-360-degree-photosphere",
+      "start_url": "https://www.ideaspacevr.org/examples/aframe/aframe-360-degree-photosphere/"
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "description": "Space-themed ecommerce store for lasers",
+      "title": "LaserShop Store",
+      "start_url": "http://vr.lasershop.ca/"
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "description": "Atrium-themed ecommerce store for gadgets",
+      "title": "GadgetPlus Store",
+      "start_url": "http://vr.gadgetplus.ca/"
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "title": "Tunnel Ride",
+      "start_url": "http://drawvr.com/tunnel/"
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "title": "Wheel Ride",
+      "start_url": "http://drawvr.com/wheel/"
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "title": "Equalizer Ride",
+      "start_url": "http://drawvr.com/equalizer/"
+    },
+    {
+      "author": {
+        "name": "Michael Verdi",
+        "url": "http://x627.com/"
+      },
+      "source_url": "Verdi/vr-scape-demo",
+      "post_url": "http://x627.com/a-test-vr-scape/",
+      "start_url": "http://x627.com/testscape/",
+      "title": "Test Scape"
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "title": "Infiverse",
+      "description": "Navigate a collection of cool A-Frame sites by walking through rooms and doorways",
+      "start_url": "http://infiverse.com/"
+    },
+    {
+      "author": {
+        "name": "Christopher Waite",
+        "url": "https://github.com/chrismwaite/"
+      },
+      "title": "Cardboard Dungeon",
+      "description": "First-person dungeon crawler designed for mobile",
+      "source_url": "chrismwaite/cardboard-dungeon",
+      "start_url": "https://chrismwaite.github.io/cardboard-dungeon/"
+    },
+    {
+      "author": {
+        "name": "Michael Straeubig",
+        "url": "https://github.com/i3games/"
+      },
+      "title": "Cardboard Treasure Hunt",
+      "description": "A-Frame implementation of the [Google Cardboard \"Treasure Hunt\" demo](https://developers.google.com/cardboard/android/get-started)",
+      "source_url": "i3games/aframe-cardboard-demo",
+      "start_url": "https://i3games.github.io/aframe-cardboard-demo/"
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "title": "Concert Hall 360°",
+      "description": "360° view of an empty concert hall with Vivaldi’s _The Four Seasons_ playing in the background",
+      "source_url": "ybinstock/concert_hall_360",
+      "start_url": "https://ybinstock.github.io/concert_hall_360/"
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "title": "Where in the World Is Carmen Sandiego?",
+      "description": "Scavenger hunt game inspired by the popular series",
+      "source_url": "ybinstock/carmensandiego_360",
+      "start_url": "https://ybinstock.github.io/carmensandiego_360/"
+    },
+    {
+      "author": {
+        "name": "Don McCurdy",
+        "url": "https://twitter.com/donrmccurdy/"
+      },
+      "title": "Monument Valley",
+      "description": "[Monument Valley](http://www.monumentvalleygame.com/) scene exported from [MagicaVoxel](https://ephtracy.github.io/?page=mv_main)",
+      "start_url": "https://sandbox.donmccurdy.com/vr/monument/"
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "title": "Drop",
+      "description": "Look down and free-fall",
+      "start_url": "http://drawvr.com/drop/"
+    },
+    {
+      "author": {
+        "name": "Paul M. Christian",
+        "url": "https://github.com/meta-meta/"
+      },
+      "title": "Aztec Pong",
+      "description": "Play Pong floating atop an Aztec monument",
+      "source_url": "meta-meta/aztec-pong",
+      "start_url": "http://meta-meta.github.io/aztec-pong/"
+    },
+    {
+      "author": {
+        "name": "CarpeDMT",
+        "url": "https://github.com/CarpeDMT/"
+      },
+      "title": "Hello, Pizza",
+      "description": "If a pizza spins in a forest and no one is around to eat it, does it make a sound?",
+      "start_url": "https://carpedmt.github.io/"
+    },
+    {
+      "author": "Shopify",
+      "description": "Prototype of Shopify e-commerce shopping in WebVR",
+      "title": "Shopify",
+      "start_url": "https://shopifyvr.myshopify.com/",
+      "supports": {
+        "mobile": true
+      }
+    },
+    {
+      "author": {
+        "name": "MAE",
+        "url": "http://whatismae.com/"
+        },
+      "description": "A multisensory aesthetic experience in VR",
+      "title": "LIGHT",
+      "start_url": "http://maevr.vertigomusic.com/",
+      "supports": {
+        "mobile": true
+      }
+    },
+    {
+      "author": {
+        "name": "Chris Withers",
+        "url": "https://www.behance.net/chriswithers"
+      },
+      "description": "Tour of the Stamps School of Art & Design",
+      "title": "Virtual Art School Tour",
+      "start_url": "http://stampswebdesign.com/withersc/hud/",
+      "supports": {
+        "mobile": true
+      }
+    },
+    {
+      "author": {
+        "name": "IdeaSpaceVR",
+        "url": "https://twitter.com/ideaspacevr/"
+      },
+      "description": "360° photo viewer with navigation",
+      "title": "360° Photosphere Viewer",
+      "source_url": "IdeaSpaceVR/aframe-360-degree-photosphere",
+      "start_url": "https://www.ideaspacevr.org/examples/aframe/aframe-360-degree-photosphere/",
+      "supports": {
+        "mobile": true
+      }
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "description": "Space-themed ecommerce store for lasers",
+      "title": "LaserShop Store",
+      "start_url": "http://vr.lasershop.ca/",
+      "supports": {
+        "mobile": true
+      }
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "description": "Atrium-themed ecommerce store for gadgets",
+      "title": "GadgetPlus Store",
+      "start_url": "http://vr.gadgetplus.ca/",
+      "supports": {
+        "mobile": true
+      }
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "title": "Wheel Ride",
+      "description": "Fasten your seat belt",
+      "start_url": "http://drawvr.com/wheel/",
+      "supports": {
+        "mobile": true
+      }
+    },
+    {
+      "author": {
+        "name": "Donovan Kraeker",
+        "url": "http://drawvr.com/"
+      },
+      "title": "Equalizer",
+      "description": "Stay groovy",
+      "start_url": "http://drawvr.com/equalizer/",
+      "supports": {
+        "mobile": true
+      }
+    },
+    {
+      "author": {
+        "name": "Christopher Waite",
+        "url": "https://github.com/chrismwaite/"
+      },
+      "title": "Cardboard Dungeon",
+      "description": "First-person dungeon crawler designed for mobile",
+      "source_url": "chrismwaite/cardboard-dungeon",
+      "start_url": "https://chrismwaite.github.io/cardboard-dungeon/",
+      "supports": {
+        "mobile": true
+      }
+    },
+    {
+      "author": {
+        "name": "Mozilla VR",
+        "url": "http://mozvr.com/"
+      },
+      "description": "An animated fly-through of Sechelt, BC in Canada",
+      "title": "Sechelt",
+      "start_url": "https://mozvr.github.io/sechelt/",
+      "supports": {
+        "mobile": true
+      }
+    }
+  ]
+}
