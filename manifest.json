@@ -18,10 +18,12 @@
   ],
   "prefer_related_applications": false,
   "aframe": {
+    "version": "master",
     "components": [
       "aframe-href-component",
       "annyang",
-      "/common/assets/js/lib/voice-nav.js"
+      "/common/assets/js/lib/voice-nav.js",
+      "assets/js/voice-controls.js"
     ]
   }
 }
