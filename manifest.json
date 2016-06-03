@@ -1,0 +1,27 @@
+{
+  "name": "Holodeck Club",
+  "short_name": "Holodeck",
+  "start_url": "./?utm_source=web_app_manifest",
+  "display": "standalone",
+  "theme_color": "#4aa",
+  "background_color": "#4aa",
+  "icons": [
+    {
+      "src": "https://aframe.io/images/aframe-logo-152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    }, {
+      "src": "https://aframe.io/images/aframe-logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "prefer_related_applications": false,
+  "aframe": {
+    "components": [
+      "aframe-href-component",
+      "annyang",
+      "/common/assets/js/lib/voice-nav.js"
+    ]
+  }
+}
